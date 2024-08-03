@@ -38,7 +38,7 @@ Follow these steps to run the application locally.
 
 1. <b>Clone the Repository:</b>
 <p>
-    git clone https://github.com/ichhakumari/health-challenge-tracker-master.git
+    git clone https://github.com/Swathi39As/Health-tracker-project-
     cd Health-Challenge-Tracker
 </p>
 
@@ -53,7 +53,7 @@ Follow these steps to run the application locally.
    <p> 
     ng serve<br>
     
-    Navigate to `http://localhost:52144/`. The application will automatically reload if you change any of the source files.</p>
+    Navigate to `hhttp://localhost:41359/`. The application will automatically reload if you change any of the source files.</p>
 
 <h3>Code Scaffolding</h3>
 <p>
@@ -77,5 +77,5 @@ The build artifacts will be stored in the `dist/` directory.</p>
 
 <h3> Contact</h3>
 
-For any questions, please contact [ichha2111@gmail.com](mailto:ichha2111@gmail.com).
+For any questions, please contact [ravellaswapna09@gmail.com].
 
